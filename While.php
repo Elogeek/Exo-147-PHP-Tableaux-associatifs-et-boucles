@@ -34,3 +34,9 @@ echo "Je dors enfin...<br><br>";
 
 // TODO Votre code ici !
 
+$dede = 1;
+
+while($dede <= 50) {
+    echo $dede . "cochon(s) <br>";
+    $dede++;
+}
